@@ -1,2 +1,2 @@
 # Resume
-  - [Resume](./Cullan_Carey_Resume.pdf)
+  - [Link to my resume](./Cullan_Carey_Resume.pdf)
