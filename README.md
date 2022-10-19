@@ -3,4 +3,4 @@ Thank you for viewing my github. I hope you found my personal projects interesti
 I can be reached at **cullancarey@gmail.com**. 
 Please see my resume below 
 
-(Cullan_Carey_Resume.pdf)
+![](Cullan_Carey_Resume.pdf)
